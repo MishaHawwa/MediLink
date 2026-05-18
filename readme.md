@@ -1,5 +1,4 @@
 a web app (AI-DRIVEN EMERGENCY AND HOSPITAL  OPTIMIZATION SYSTEM) with the following features:
-We have 4 hours to build.
 Patient Condition Aware Routing:
 
 This system classifies the patient based on the patient’s severity
